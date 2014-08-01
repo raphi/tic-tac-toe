@@ -1,6 +1,3 @@
-var SERVER_HOST = 'http://localhost'
-var SERVER_PORT = '8080'
-
 $(document).ready(function() {
 
     var api = new API();

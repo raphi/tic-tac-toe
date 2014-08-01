@@ -1,3 +1,6 @@
+var SERVER_HOST = 'http://0.0.0.0'
+var SERVER_PORT = '8080'
+
 // Communicate with the server
 function API() {
 	// Game object implementation to interact with current DOM
