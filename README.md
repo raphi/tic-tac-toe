@@ -1,6 +1,7 @@
 Tic-Tac-Toe
 ========================
-Tic-Tac-Toe online project using Socket.IO for playing online and minimax algorithm with alpha-beta pruning for the AI
+Tic-Tac-Toe online project using Socket.IO for playing online and minimax algorithm with alpha-beta pruning for the AI.
+More info about the AI algorith: http://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves
 
 Requirements
 ============
