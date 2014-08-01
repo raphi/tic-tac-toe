@@ -1,3 +1,6 @@
+.table {
+	table-layout: fixed;
+}
 .table>thead>tr>th, 
 .table>tbody>tr>th, 
 .table>tfoot>tr>th, 
@@ -16,6 +19,7 @@
 .table>tbody>tr td {
 	border-bottom: 1px solid #DDD;
 	border-left: 1px solid #DDD;
+	vertical-align: middle;
 }
 .table>tbody>tr td:hover {
 	background-color: #DDD;
