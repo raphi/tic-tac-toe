@@ -13,9 +13,6 @@ Install
 $ cd tic-tac-toe/
 $ npm install
 
-Optional:
-If you run the server on a remote server, edit file public/assets/js/api.js
-
 Start the server
 ================
 $ node app.js
